@@ -1,0 +1,7 @@
+# TODO
+- MainActivity: List/Play/Discard files
+- Settings: Codec, Minimal duration, Transcription, Sensors + Gestures
+- Better trigger sounds
+- Battery performance
+- Keep services alive (even after boot)
+- Fancify
